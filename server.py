@@ -6,7 +6,7 @@ import pandas as pd
 import mediapipe as mp
 
 import matplotlib
-matplotlib.use("Agg")  # Use a non-GUI backend for matplotlib
+matplotlib.use("Agg")  # Use a non-GUI backend for matplotlib 1
 import matplotlib.pyplot as plt
 
 import io
